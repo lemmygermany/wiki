@@ -1,7 +1,7 @@
 ---
 layout: default
 title: German citizenship by descent
-nav_order:4
+nav_order: 4
 ---
 
 ## German citizenship by descent##
