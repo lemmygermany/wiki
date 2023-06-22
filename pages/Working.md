@@ -2,6 +2,7 @@
 layout: default
 title: Working in Germany
 nav_order: 7
+has_children: true
 ---
 
 # Working in Germany
