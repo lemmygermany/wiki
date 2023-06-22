@@ -18,11 +18,11 @@ has_children: true
 &nbsp;
 
 
-##Table of Contents
+## Table of Contents
 
 Link | Description
 ---|---|---
-[The German university system](/r/germany/wiki/studying/general)|Introduction to the university system and what it means to study in Germany|some content
+[The German university system](/wiki/pages/studying/General_information.html)|Introduction to the university system and what it means to study in Germany|some content
 [Step-by-step guide](/r/germany/wiki/studying/guide)|A step-by-step guide based on /u/deineblauenaugen's guide.|Can be improved
 [Financing](/r/germany/wiki/studying/financing)|How to finance your studies?
 [Housing](/r/germany/wiki/studying/housing)|How to find housing.
