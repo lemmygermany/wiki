@@ -11,7 +11,7 @@ nav_order: 5
 ## General Advice
 Please click [here.](/r/germany/wiki/travelling/generaladvice)
 
-##Major Towns
+## Major Towns
 
 **Feel free to add your own town :)**
 
