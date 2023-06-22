@@ -1,6 +1,6 @@
 ---
-name: Bayern (Bavaria)
 layout: default
+name: Bayern
 parent: Travelling
 ---
 
