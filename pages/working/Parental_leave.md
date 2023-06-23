@@ -1,3 +1,9 @@
+---
+layout: default
+title: Parental leave
+parent: Working in Germany
+---
+
 # Parental leave in Germany
 
 Elternzeit: parental leave  
