@@ -1,6 +1,6 @@
 ---
 layout: default
-title: If your ancestor was a minors when they moved...
+title: If your ancestor was a minor when they moved...
 parent: Citizenship by descent
 ---
 
