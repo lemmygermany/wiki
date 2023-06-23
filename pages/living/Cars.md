@@ -81,7 +81,7 @@ A few cars also run on LPG (liquified petroleum gas), which is available at most
 
 ## Driving
 
-For tips about driving in Germany, see the [general travel advice page](/r/germany/wiki/travelling/generaladvice). 
+For tips about driving in Germany, see the [general travel advice page](https://lemygermany.github.io/wiki/pages/travelling/Travelling_advice.html). 
 
 # External links
 
