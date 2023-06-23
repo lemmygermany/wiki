@@ -1,7 +1,8 @@
 ---
 layout: default
-title: German citizenship by descent
+title: Citizenship by descent
 nav_order: 4
+has_children: true
 ---
 
 ## German citizenship by descent
