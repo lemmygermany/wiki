@@ -17,7 +17,7 @@ Germany, unlike the United States, requires you to choose your degree program be
 
 [The DAAD](https://www.daad.de/deutschland/studienangebote/studiengang/en/?a=result&amp;q=&amp;degree=24&amp;courselanguage=&amp;studylocation=&amp;locations=&amp;admissionsemester=&amp;sort=name&amp;page=1) has a comprehensive database of all degree programs in Germany. At the undergraduate level, over 98% are taught in German, but [there are a few](https://www.daad.de/deutschland/studienangebote/studiengang/en/?a=result&q=&degree=&courselanguage=2&locations=&admissionsemester=&sort=name&page=1) which are taught in English. At the Master's level and above, there is a substantial minority of English-language degree programs. 
 
-To do further research on universities and programmes look into the [wiki resources](https://www.reddit.com/r/germany/wiki/studying/resources). You also might want to contact university or faculty staff to get detailed information. To do so you may search for *(Fach)Studienberatung* or 
+To do further research on universities and programmes look into the [wiki resources](/wiki/pages/studying/Resources.html). You also might want to contact university or faculty staff to get detailed information. To do so you may search for *(Fach)Studienberatung* or 
 
 *Studienkoordinator*. Another possibility is to get in contact with a *Fachschaft*, the student council for a faculty or course of study. You should look at what modules a particular course offers, to see whether they match your interests. 
 
@@ -72,11 +72,11 @@ As an alternative, you can opt for private health insurance (from one of the big
 If you're coming to Germany well in advance of the start of your studies (e.g. to attend language school, or just to get settled in), then you likely can't sign up with public insurance just yet, as you haven't enrolled in university yet. You can get travel insurance (from companies like [Mawista](https://www.mawista.com/) or [Care Concept](https://www.care-concept.de/krankenversicherung/sprachschueler_und_studenten/sprachschueler_versicherung_einleitung_eng.php?navilang=eng)) which cover emergency medical care, until you can get "proper" health insurance. Note that these companies also advertise "student" insurance - this is nothing but rebranded travel insurance, and is a borderline scam. Their premiums are very low, but their coverage is terrible, and they have a reputation for fighting tooth and nail against paying out anything. They also don't meet the minimum requirements for health insurance for residents (see [§9c of the German Residence Act](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html)), so you'd be in violation of your visa. Only use their insurance for short stays in Germany, or to tide you over until you can get "proper" health insurance. 
 
 
-For more information about health insurance, see our [health insurance FAQ](https://www.reddit.com/r/germany/wiki/health_insurance).
+For more information about health insurance, see our [health insurance FAQ](https://lemmygermany.github.io/wiki/pages/living/Krankenkasse.html).
 
 
 ## Step 8: Finding a place to live 
-Unlike in other countries, the vast majority of students at German universities have to find their own accommodation on the open market. Most commonly, students live in shared flats (*Wohngemeinschaften*, usually called "WGs") with other students, where everybody has their own room, but share a kitchen and a bathroom. Alternatively, students can also rent individual rooms (e.g. in a larger house), or even entire apartments, if they have enough money. The [housing section of the wiki](https://www.reddit.com/r/germany/wiki/living/housing) has detailed information about how to find housing in Germany. Note that it can be *very* difficult to find housing, particularly in the larger cities, so start looking early enough, and plan on living in temporary accommodation at the start (until you find something more permanent). 
+Unlike in other countries, the vast majority of students at German universities have to find their own accommodation on the open market. Most commonly, students live in shared flats (*Wohngemeinschaften*, usually called "WGs") with other students, where everybody has their own room, but share a kitchen and a bathroom. Alternatively, students can also rent individual rooms (e.g. in a larger house), or even entire apartments, if they have enough money. The [housing section of the wiki](https://lemmygermany.github.io/wiki/pages/living/Housing.html) has detailed information about how to find housing in Germany. Note that it can be *very* difficult to find housing, particularly in the larger cities, so start looking early enough, and plan on living in temporary accommodation at the start (until you find something more permanent). 
 
 
 Some universities also have a hall of residence (*Studentenwohnheim*). This is usually the cheapest option for housing, but demand far outstrips supply, so you usually have to apply very early to have any hope of getting a spot (and most applicants don't get a spot at all).
@@ -84,7 +84,7 @@ Some universities also have a hall of residence (*Studentenwohnheim*). This is u
 
 
 ## Credit
-Thanks to /u/deineblauenaugen for their [guide to studying in Germany](/r/germany/comments/2i2trw/so_you_want_to_study_undergraduate_in_germany/), upon which much of this guide is based. 
+Thanks to /u/deineblauenaugen for their [guide to studying in Germany](https://www.reddit.com/r/germany/comments/2i2trw/so_you_want_to_study_undergraduate_in_germany/), upon which much of this guide is based. 
 
 
 
