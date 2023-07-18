@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Financing Your Studies
-parent:Studying in Germany
+parent: Studying in Germany
 ---
 
 # Financing Your Studies
