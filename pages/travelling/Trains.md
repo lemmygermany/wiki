@@ -1,7 +1,7 @@
 ---
 layout: default
 parent: Travelling
-title: trains
+title: Trains
 nav_order: 99
 ---
 
