@@ -30,12 +30,10 @@ On average, students (at public universities) spend around 800-1,000 € per mon
 ## Legal and visa aspects
 As detailed in the [guide to studying in Germany](https://www.reddit.com/r/germany/wiki/studying/guide), non-EU students must have sufficient financial means in order to get a residence permit to study in Germany (colloquially known as a "student visa"). Foreign students must therefore show that they have 11,208 euro. Specifically, the immigration authorities accept three kinds of proofs: Savings,  financial guarantees, and scholarships. 
 
-
-
 ### Savings 
 In order to make sure that the savings will actually be used to finance your studies (and wasn't just a temporary blip in your bank balance), the immigration authorities usually require that you deposit the money into a special kind of German bank account, known as a "blocked account" ([*Sperrkonto*](https://allaboutberlin.com/glossary/Sperrkonto)) from which you can only withdraw 1/12 of the total sum per month. Only [a few banks](https://allaboutberlin.com/guides/first-bank-account-in-germany#german-banks-for-students) offer a Sperrkonto: [Deutsche Bank](https://www.deutsche-bank.de/pfb/content/konto_international-students.html), [Fintiba](https://www.fintiba.com/) and X-Patrio.
 
-###Guarantees
+### Guarantees
 If you don't have the required savings (see above), then someone else can guarantee that they will support you financially. In most cases, this is your parents, who sign a letter to that effect, and have to show that they have enough income and/or savings to make good on their pledge. Other people can also offer guarantees (see [§66-68 of the Aufenthaltsgesetz](https://www.gesetze-im-internet.de/englisch_aufenthg/englisch_aufenthg.html)), but unless they are German permanent residents (against whom the German state could enforce collection, if necessary), the immigration authorities may not accept their guarantee. Speak to the embassy in case you're unsure. 
 
 The term for these guarantees is *Verpflichtungserklärung*. Somebody in Germany vouches to cover each and *all* costs you might cause during your stay, they are financially responsible for you and you get to come to Germany without proof of finances.
@@ -71,8 +69,6 @@ Students in Germany do many kinds of work, including bartending and waitressing,
 ### Earning example
 
 Students are allowed to work 240 days per calendar year for up to 4 hours/120 days for more than 4 hours. 240 days x 4 hours x 12 euro minimum wage = 11,520 euro gross income per year = 9,384 net income per year after taxes and social security contributions = 782 net income per month. Your social security contributions also give you public health insurance -- if you have no job then you have to pay about 110 euro per month for that.
-
-
 
 ### Freelance visa
 The student visa does not allow you to freelance. It is possible to apply for an exception at the immigration authority (Ausländerbehörde), see section 21 (6) Residence Act. If your specific freelancing activity does not allow you to easily keep track on the number of hours you freelance then the exception will likely not be granted.
